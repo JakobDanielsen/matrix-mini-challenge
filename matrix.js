@@ -1,9 +1,9 @@
-let message = "jakob er veldig kul"
+let message = "jakob er en gud på programmering"
 let messageIndex = 0
 
 let output = ""
 
-const ALPHABET = "abcdefghijklmnopqrstuvwxyz "
+const ALPHABET = "abcdefghijklmnopqrstuvwxyzæøå !,.-1234567890"
 
 
 function findLetter(){
