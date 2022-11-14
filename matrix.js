@@ -16,8 +16,7 @@ function findLetter(){
                 break
             }
         }
-    if (output.length == message.length) {
-    } else {
+    if (output.length !== message.length) {
         // console.log(`${output} is not equal to ${message}`);
         findLetter()
     }
